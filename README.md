@@ -26,3 +26,9 @@ Decimal conversion
 🎯 Correct hashing logic based on NFSRaider / Binary
 
 🖥️ Clean, compact, dark-mode UI
+
+## Credits
+🔹 Original Hash Logic — MaxHwoy
+🔹 Binary (NFS Tools) — NFSTools Team
+🔹 Binarius — nlgxzef
+🔹 UI Ideas & Inspiration — Rng_guy
