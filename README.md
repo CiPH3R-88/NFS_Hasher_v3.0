@@ -6,6 +6,7 @@ NFS-Hasher is a lightweight, accurate hashing utility for Need for Speed (Black 
 ✨ Features
 
 ✅ Live hashing as you type
+
 🔹 BIN Hash
 Memory (Little-Endian)
 File (Big-Endian)
