@@ -3,7 +3,7 @@ NFS-Hasher is a lightweight, accurate hashing utility for Need for Speed (Black 
 
 ![image alt](https://github.com/CiPH3R-88/NFS-Hasher/blob/470d5819090d9860b992757d23f2f583a84af37d/appmain.png)
 
-✨ Features
+## Features
 
 ✅ Live hashing as you type
 
@@ -29,6 +29,9 @@ Decimal conversion
 
 ## Credits
 🔹 Original Hash Logic — MaxHwoy
+
 🔹 Binary (NFS Tools) — NFSTools Team
+
 🔹 Binarius — nlgxzef
+
 🔹 UI Ideas & Inspiration — Rng_guy
