@@ -32,4 +32,4 @@ Decimal conversion
 
 🔹 Binarius — [nlgxzef](https://github.com/nlgxzef/Binarius)
 
-🔹 UI Ideas & Inspiration — Rng_guy
+🔹 UI Ideas — Rng_guy
