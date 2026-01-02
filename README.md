@@ -19,11 +19,9 @@ Decimal conversion
 
 📋 Click-to-copy any field (no buttons)
 
-🟢 Visual feedback: “Copied to clipboard”
+🔹 Visual feedback: “Copied to clipboard”
 
-🧼 Auto-clears all fields when input is empty
-
-🎯 Correct hashing logic based on NFSRaider / Binary
+🔹 Correct hashing logic based on NFSRaider / Binary
 
 🖥️ Clean, compact, dark-mode UI
 
