@@ -30,8 +30,8 @@ Decimal conversion
 ## Credits
 🔹 Original Hash Logic — [MaxHwoy](https://github.com/MaxHwoy)
 
-🔹 Binary (NFS Tools) — NFSTools (https://github.com/NFSTools/Binary)
+🔹 Binary (NFS Tools) — [NFSTools](https://github.com/NFSTools/Binary)
 
-🔹 Binarius — nlgxzef (https://github.com/nlgxzef/Binarius)
+🔹 Binarius — [nlgxzef](https://github.com/nlgxzef/Binarius)
 
 🔹 UI Ideas & Inspiration — Rng_guy
