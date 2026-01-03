@@ -26,7 +26,7 @@ Decimal conversion
 🖥️ Clean, compact, dark-mode UI
 
 ## Credits
-🔹 Original Hash Logic — [MaxHwoy](https://github.com/MaxHwoy)
+🔹 Original Hash Logic — nfsu360, [MaxHwoy](https://github.com/MaxHwoy)
 
 🔹 Binary (NFS Tools) — [NFSTools](https://github.com/NFSTools/Binary)
 
