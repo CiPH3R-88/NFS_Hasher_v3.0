@@ -1,0 +1,44 @@
+NFS-Hasher v3.0
+Copyright (c) 2026 CiPHER
+
+All rights reserved.
+
+This software and its source code are released for
+EDUCATIONAL AND RESEARCH PURPOSES ONLY.
+
+-----------------------------------------
+PERMISSIONS
+-----------------------------------------
+
+You are allowed to:
+
+- View, study, and learn from the source code
+- Run the software for personal use
+- Modify the source code for educational purposes
+- Reference this project in your own educational work
+
+-----------------------------------------
+RESTRICTIONS
+-----------------------------------------
+
+You are NOT allowed to:
+
+- Redistribute this software or its source code
+  without explicit attribution to the original author
+- Claim authorship of this software or any derivative
+- Rebrand, rename, or present this project as your own
+- Sell, sublicense, or commercially exploit this software
+- Include this software in paid products or services
+- Remove or alter copyright notices
+
+-----------------------------------------
+THIRD-PARTY ACKNOWLEDGEMENTS
+-----------------------------------------
+
+This project is inspired by and references concepts from:
+
+- NFSTools (Attribulator, Binary)
+- Binarius by nlgxzef
+
+All respective trademarks and copyrights
+belong to their original authors.
