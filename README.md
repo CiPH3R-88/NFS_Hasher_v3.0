@@ -33,3 +33,9 @@ Decimal conversion
 🔹 Binarius — [nlgxzef](https://github.com/nlgxzef/Binarius)
 
 🔹 UI Ideas — Rng_guy
+
+## License
+
+- NFS-Hasher v3.0 is released for **educational purposes only**.
+- Rebranding, redistribution without attribution,
+  or commercial use is strictly prohibited.
