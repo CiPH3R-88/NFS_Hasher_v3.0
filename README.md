@@ -32,7 +32,7 @@ Decimal conversion
 
 🔹 Binarius — [nlgxzef](https://github.com/nlgxzef/Binarius)
 
-🔹 UI Ideas — Rng_guy
+🔹 UI Ideas — [Rng_guy](https://github.com/rng-guy)
 
 ## License
 
