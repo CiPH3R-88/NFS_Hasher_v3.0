@@ -1,4 +1,4 @@
-# NFS-Hasher
+# NFS-Hasher v3.0
 NFS-Hasher is a lightweight, accurate hashing utility for Need for Speed (Black Box era) tools and modding workflows. It provides real-time BIN and VLT hash generation with memory/file endianness handling hexadecimal  and decimal conversions.
 
 ![image alt](https://github.com/CiPH3R-88/NFS_Hasher_v3.0/blob/d36fc01dfee962bb3847f12e231255db56f20463/hasher3.png)
